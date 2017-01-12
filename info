@@ -1,0 +1,11 @@
+Package: batti
+Version: 0.1
+Architecture: all
+Maintainer: Sujit Maharjan <mail@maharjansujit.com.np>
+Installed-Size: 1
+Depends: bash, sed, poppler-utils
+Section: testing
+Priority: optional
+Homepage: https://github.com/foss-np/batti/
+Description: Load-shedding information written in bash
+	     batti is a bash script that can automatically download the load-shedding schedule from the NEA website and display in the terminal.
